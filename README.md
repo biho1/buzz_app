@@ -44,5 +44,7 @@ if you have to change this you have to edit buzz_controller.py at the bottom (2 
 
 each players phone hat to be in the same WIFI and this python script hat to run on the machine that runs PCSX2
 
+![Alt text](sample.jpeg "sample")
+
 ## Authors
 chatGPT helped a lot
