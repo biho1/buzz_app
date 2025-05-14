@@ -25,6 +25,14 @@ source ./env/bin/activate
 pip install flask pyautogui pyobjc-core pyobjc
 
 python buzz_controller.py
+
+### Executing release version (for macOS)
+
+alternatively you can download the compiled release version an run it directly from macos without installing python
+
+* you need to have Sequoia installed
+* you need to allow the unsigned app to run, in system settings > data and security -> scoll down to the bottom, after the first start it will be visible and you can allow execute
+* you need to grant access for Buzz Controller in accessibility control (system permission will be asked, to simulate key press events)
  
 ## Help
 
