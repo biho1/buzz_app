@@ -26,6 +26,8 @@ pip install flask pyautogui pyobjc-core pyobjc
 
 python buzz_controller.py
 
+* you need to grant access in accessibility control for terminal (system permission will be asked, to simulate key press events)
+
 ### Executing release version (for macOS)
 
 alternatively you can download the compiled release version an run it directly from macos without installing python
